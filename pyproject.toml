@@ -35,3 +35,4 @@ force-sort-within-sections = true
 pandas = "2.2.2"
 jupyterlab = "4.4.4"
 scikit-learn = "1.5.1"
+ipykernel = "^6.30.0"
